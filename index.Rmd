@@ -1,0 +1,52 @@
+---
+title: "Paris Holden's CV"
+description: |
+  Welcome to the website. I hope you enjoy it!
+image: "IMG_2567.JPG"
+links:
+  - label: GitHub
+    url: "https://github.com/parisholden"
+  - label: Email
+    url: "mailto:parislholden@gmail.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/paris-holden-09026b212/"
+output:
+  postcards::trestles
+site: distill::distill_website
+theme: "postcards.css"
+---
+
+# **Summary**
+
+As a postgraduate university student I am highly organised with the ability to work extremely hard, under pressure and consistently meet deadlines. I am a dedicated team player who can be relied upon to help your business thrive and achieve set goals. I have interests in crime and criminal offending as well as mental health and wellbeing, particulary in adolescence.
+
+# **Skills**
+- Fast learner 
+- Interpersonal skills 
+- Excellent work ethic 
+- Committed 
+- Enthusiastic 
+- Hardworking
+- Experience working in R 
+
+# **Education** 
+- NCEA level 3 and university entrance \
+  *St Peter's College (2011 - 2017)*
+- Bachelor of Science majoring in Criminology and Psychology \
+  *Te Herenga Waka - Victoria University of Wellington (2018 - 2021)*
+- Bachelor of Science with Honours in Psychology \
+  *Te Herenga Waka - Victoria University of Wellington (2021 - present)*
+
+# **Job Experience** 
+**Hotel Coachman/La Patio Café & Bar**\
+*March 2018 - February 2019/August 2019 - December 2019* \
+Front of house waitress in Hotel Coachman's restaurant 'La Patio Café & Bar', at times acting as either restaurant or function supervisor.  
+
+**The Thistle Inn**\
+*Janurary 2020 - Present* \
+Front of house waitress and bartender at one of New Zealand's oldest pubs. 
+
+Working in hospitality for the past three years has allowed me to gain experience in money handling, multi-tasking and customer service. These years in hospitality has also increased my high attention to detail and professionalism. All skills that I hope to use that will contribute to the successful career I am aiming to achieve. 
+
+If you would like to get in contact, please do not hesitate to send me an email or message through LinkedIn. 
+
